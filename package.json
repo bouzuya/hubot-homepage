@@ -1,7 +1,7 @@
 {
   "name": "hubot-homepage",
   "description": "A Hubot script for hosting your web page.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "bouzuya <m@bouzuya.net>",
   "license": "MIT",
 
